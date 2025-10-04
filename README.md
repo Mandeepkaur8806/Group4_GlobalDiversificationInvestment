@@ -28,8 +28,7 @@ All team members contribute to:
 Instructions on how to clone the project, and switch to its local directory:
 git clone https://github.com/Mandeepkaur8806/Group4_GlobalDiversificationInvestment
 
-Branching and Workflow Guidelines: A short note on using feature/, develop, and
-main branches, PRs, and reviews.
+Branching and Workflow Guidelines: As a developer working on the project, all changes will be completed on a feature branch, which will then be pushed to the central server as a pull request. Pull requests must be reviewed and aproved by all collaborators before they can be merged into the main branch.
 
 This project is licensed under the MIT License.
 
