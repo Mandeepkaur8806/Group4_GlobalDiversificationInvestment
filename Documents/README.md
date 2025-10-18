@@ -37,23 +37,22 @@ Visual data representation (world-map, bar graphs)
 User account management system for secure access and personalized tracking
 Upload portfolio data in any format to be processed by AI and converted into readable analytics
 
-Stakeholder and User Descriptions
-Name
-Role
-Goal
-Learner
-User
-Learn more about diversifying trading portfolio, follow learning modules to learn basic trade strategies 
-Investor
-User
-Gain insight and analytics on diversity of portfolio
-Content Creators
-Stakeholder
-Creates learning modules and makes updates to modules as necessary. 
-Technical Support
-Stakeholder
-Support for any user or application technical issues
+Stakeholder and User Descriptions:
+Name: Learner
+Role: User
+Goal: Learn more about diversifying trading portfolio, follow learning modules to learn basic trade strategies 
 
+Name: Investor
+Role: User
+Goal: Gain insight and analytics on diversity of portfolio
+
+Name: Content Creators
+Role: Stakeholder
+Goal: Creates learning modules and makes updates to modules as necessary. 
+
+Name: Technical Support
+Role: Stakeholder
+Goal: Support for any user or application technical issues
 
 
 Key Features and Functionalities
