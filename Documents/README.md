@@ -16,19 +16,19 @@ Prasad, Shania
 Zhou, Aneeta
 
 
-Introduction
+**Introduction**<br/>
 This vision document outlines the purpose of the Education and Analytical System for global diversification in investments. The system is a web-based application allowing users to learn about diversifying an investment portfolio, or gain analytical insight on current investment portfolios (specifically global diversification). 
 
-Business Opportunity: 
+**Business Opportunity** <br/>
 New and long term investors often use trading software that does not specify the global diversity of their portfolio. An education and analytical system for global diversification will allow more people to learn about the importance of spreading investment across different geographic regions. 
 
-Problem Statement
+**Problem Statement**<br/>
 Current investment tools do not offer clear visibility into the geographic diversity of portfolios, causing investors to over-concentrate in one market. Additionally, there is a lack of accessible educational resources that teach users how to diversify investments across global markets.
 
-Vision/Product Position Statement 
+**Vision/Product Position Statement** <br/>
 For users who would like to diversify their portfolios, or learn about diversifying their portfolios across different geographic regions, the Education and Analytical System provides up to date training modules and analytics on existing portfolios. Unlike traditional platforms, this system emphasizes the importance of diversifying investments across global markets and provides resources for users.
 
-Scope :
+**Scope**<br/>
 The project includes the following functionalities:
 Learn about global diversification of investments through learning modules
 Progress tracking through gamified features (badges, leaderboards)
@@ -37,7 +37,7 @@ Visual data representation (world-map, bar graphs)
 User account management system for secure access and personalized tracking
 Upload portfolio data in any format to be processed by AI and converted into readable analytics
 
-Stakeholder and User Descriptions:<br/>
+**Stakeholder and User Descriptions**<br/>
 Name: Learner<br/>
 Role: User<br/>
 Goal: Learn more about diversifying trading portfolio, follow learning modules to learn basic trade strategies <br/>
@@ -55,7 +55,7 @@ Role: Stakeholder<br/>
 Goal: Support for any user or application technical issues<br/>
 
 
-Key Features and Functionalities
+**Key Features and Functionalities**<br/>
 The system delivers investment training modules.
 The system provides analytics on global diversification on current portfolios.
 The system enables visualization of the total investment in the currency of their choice. 
@@ -63,16 +63,16 @@ The system displays currency conversion using real-time FX rates.
 Integrated AI to scrape user data from multiple file types 
 Transfer data from investment apps (i.e WealthSimple, RBC)
 
-Constraints
+**Constraints**
 Monetary constraints on system upkeep 
 PIPEDA (Personal Information Protection and Electronic Documents Act): the software must comply by Canadian data laws and obtain user consent for usage 
 
-Assumptions: 
+**Assumptions**<br/>
 Users have internet access and basic computer literacy. 
 Users must be the age of majority and reside within Canada
 Users are willing to manually input or upload portfolio data
 Users consent to their data being accessed 
 
-Risks: 
+**Risks**<br/>
 Unexpected network issues regarding server upkeep, bandwidth, and latency
 Data security and privacy for users
